@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jupyter Notebooks 101 # Make a title for your blog
+title: Data Science 101 # Make a title for your blog
 email: kendalika3@gmail.com # Add your email 
-description: New to Python? Here are the basics for running IPython in Jupyter Notebooks
+description: Tips and tricks, along with the basics of data science.
 baseurl: "/stat386-projects" # keep this the same or change it to the name of the repository 
 url: "https://Bacon-A.github.io" #  change this to "https://<your-github-username>.github.io"
 image: "assets/images/image.png"
