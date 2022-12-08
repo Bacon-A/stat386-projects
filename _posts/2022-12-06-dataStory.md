@@ -10,7 +10,7 @@ image: /assets/images/canyon.jpg
 ## In the Beginning
 I love rock climbing. I've only been involved in the sport for a little over a year, but it has become a huge part of my life. One of the great things about living in Utah is the abundance of outdoor routes in the mountains that are so close by. I discovered quickly that an excellent resource for information on outdoor routes across the globe is the [Mountain Project.](https://www.mountainproject.com/) This massive repository contains 278,123 routes and counting, with Utah claiming 16,899 of them.
 
-Looking at all of this data would be fascinating. Daunting too. Rather than observe routes across the world I decided to take a focused look at some routes that I would actually consider climbing. I pulled the 200 most popular routes from Central Utah [(more information here)](https://bacon-a.github.io/stat386-projects/2022/10/20/WebScrape.html)
+Looking at all of this data would be fascinating. Daunting too. Rather than observe routes across the world I decided to take a focused look at some routes that I would actually consider climbing. I pulled the 200 most popular routes from Central Utah [(more information here)](https://bacon-a.github.io/stat386-projects/2022/10/20/WebScrape.html), but then I had wondered. Why are *these* routes the most popular? I saw routes are varying lengths, difficulties, and even stars (quality rating given by those who climbed the route). So what makes these the most popular routes?
 
 summarizes your entire project (from data collection to now 1-2 paragraphs)
 
