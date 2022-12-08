@@ -10,6 +10,7 @@ image: /assets/images/image5.jpg
 Content
 Stuff
 
+![Plot](https://user-images.githubusercontent.com/112503027/206342958-dc9bd163-f877-4396-b4d4-f5882ac9eeaf.png)
 
 
 
