@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Sample Post"
-date:   2022-08-01 11:24:47 -0700
-author: Shannon Tass
+title:  "Exploring Central Utah's Rock Climbing Routes"
+date:   2022-12-06
+author: Alek Bacon
 description: A sample post to show how the content will look and how different
   headlines, quotes and codes will be represented.
 image: /assets/images/image5.jpg
