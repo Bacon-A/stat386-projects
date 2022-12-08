@@ -7,6 +7,12 @@ description: We take a final look through the most popular climbing routes here 
 image: /assets/images/canyon.jpg
 ---
 
+# In the Beginning
+summarizes your entire project (from data collection to now 1-2 paragraphs)
+
+# So what's the story
+summarizes your data story (1 paragraph)
+
 Content
 Stuff
 
@@ -15,3 +21,4 @@ Stuff
 
 
 
+has a link to the github repository(s) that contain(s) all the work associated with your project(s) 
