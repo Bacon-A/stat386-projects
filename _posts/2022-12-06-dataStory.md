@@ -12,13 +12,14 @@ I love rock climbing. I've only been involved in the sport for a little over a y
 
 Looking at all of this data would be fascinating. Daunting too. Rather than observe routes across the world I decided to take a focused look at some routes that I would actually consider climbing. I pulled the 200 most popular routes from Central Utah [(more information here)](https://bacon-a.github.io/stat386-projects/2022/10/20/WebScrape.html), but then I had wondered. Why are *these* routes the most popular? I saw routes are varying lengths, difficulties, and even stars (quality rating given by those who climbed the route). So what makes these the most popular routes?
 
+![Plot](https://user-images.githubusercontent.com/112503027/206342958-dc9bd163-f877-4396-b4d4-f5882ac9eeaf.png)
+
 ## So what's the story
-summarizes your data story (1 paragraph)
+As you can tell, there is no extremely obvious and and strong trend. Notice routes are spread pretty evently across the x-axis (stars). There is a decent variety of route length (y-axis) - a few very long routes out there though - and for the "Ratings" (difficulty: shown as dot size), there is also quite a spread, although we do see a bit of a trend towards routes that are 5.10 or above. What does this mean? **All kinds of routes are popular.** Long, short, hard, easy. Even highly enjoyed and not so much (Stars). All kinds of routes are included in the most popular. 
 
 Content
 Stuff
 
-![Plot](https://user-images.githubusercontent.com/112503027/206342958-dc9bd163-f877-4396-b4d4-f5882ac9eeaf.png)
 
 
 Link to [Github Repository](https://github.com/Bacon-A/Rock-Climbing-Analysis)
