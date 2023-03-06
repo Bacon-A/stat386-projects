@@ -23,7 +23,7 @@ email: kendalika3@gmail.com # Add your email
 description: Introduct to Data Science through Jupyter Notebook and webscraping.
 baseurl: "/stat386-projects" # keep this the same or change it to the name of the repository 
 url: "https://Bacon-A.github.io" #  change this to "https://<your-github-username>.github.io"
-image: "assets/images/image.png"
+image: "assets/images/jn_image_landscape.jpeg"
 author: Alek Bacon
 copyright: 
 
