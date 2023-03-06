@@ -20,7 +20,7 @@
 
 title: Data Science 101 # Make a title for your blog
 email: kendalika3@gmail.com # Add your email 
-description: Tips and tricks, along with the basics of data science.
+description: Introduct to Data Science through Jupyter Notebook and webscraping.
 baseurl: "/stat386-projects" # keep this the same or change it to the name of the repository 
 url: "https://Bacon-A.github.io" #  change this to "https://<your-github-username>.github.io"
 image: "assets/images/image.png"
